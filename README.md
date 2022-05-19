@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Facundo, a computer science student and web developer.
 <hr>
-<br>
 
 - 🌱 I’m currently learning Django and ReactJS.
 - 📫 Contact me: f7olivera@gmail.com
+<br>
 
 
 <div>
