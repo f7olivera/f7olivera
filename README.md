@@ -4,5 +4,7 @@
 - 📫 Contact me: f7olivera@gmail.com
 
 ### My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f7olivera&repo=chess&theme=dracula)](https://github.com/f7olivera/chess)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f7olivera&repo=wea&theme=dracula)](https://github.com/f7olivera/wea)
+<div style="display: flex; justify-content: center">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f7olivera&repo=chess&theme=dracula)](https://github.com/f7olivera/chess)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f7olivera&repo=wea&theme=dracula)](https://github.com/f7olivera/wea)
+</div>
