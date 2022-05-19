@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Facundo, a computer science student and web developer.
+<hr>
 
 - 🌱 I’m currently learning Django and ReactJS.
 - 📫 Contact me: f7olivera@gmail.com
