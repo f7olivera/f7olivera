@@ -7,7 +7,7 @@
 
 <div>
 	<a href="https://github.com/f7olivera/">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f7olivera&layout=compact&theme=dracula&langs_count=16&hide=CMake,Procfile&exclude_repo=Binary-search-tree">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f7olivera&layout=compact&theme=dracula&langs_count=16&hide=CMake,Procfile&exclude_repo=Binary-search-tree,Doubly-linked-list">
 	</a>
 </div>
 
