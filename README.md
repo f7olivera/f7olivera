@@ -2,6 +2,7 @@
 <hr>
 
 - 🌱 I’m currently learning Django and ReactJS.
+- 🎨 Check out my [portfolio](https://f7olivera.vercel.app)
 - 📫 Contact me: f7olivera@gmail.com
 <br>
 
