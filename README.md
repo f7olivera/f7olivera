@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Facundo, a computer science student and web developer.
 <hr>
 
-- 🌱 I’m currently learning Django and React.
 - 🎨 Check out my [portfolio](https://www.facundoolivera.com)
 - 📫 Contact me: f7olivera@gmail.com
 <br>
