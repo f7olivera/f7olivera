@@ -4,7 +4,7 @@
 - 🎨 Check out my [portfolio](https://www.facundoolivera.com)
 - 📫 Contact me: f7olivera@gmail.com<br>
 
-   ![](https://komarev.com/ghpvc/?username=f7olivera)
+  ![](https://komarev.com/ghpvc/?username=f7olivera)
 <br>
 
 <div>
