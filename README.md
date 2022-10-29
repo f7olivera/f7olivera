@@ -3,7 +3,7 @@
 
 - 🎨 Check out my [portfolio](https://www.facundoolivera.com)
 - 📫 Contact me: f7olivera@gmail.com<br>
-<br>
+
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 <br>
 
