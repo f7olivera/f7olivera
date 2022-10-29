@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Facundo, a computer science student and self-taught web developer.
 
-I focus on full stack web development, mainly using Django, React and TypeScript.
 <hr>
 
 - 🎨 Check out my [portfolio](https://www.facundoolivera.com)!
