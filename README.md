@@ -1,7 +1,9 @@
-### Hi there 👋 I'm Facundo, a computer science student and web developer.
+### Hi there 👋 I'm Facundo, a computer science student and self-taught web developer.
+
+I focus on full stack web development, mainly using Django, React and TypeScript.
 <hr>
 
-- 🎨 Check out my [portfolio](https://www.facundoolivera.com)
+- 🎨 Check out my [portfolio](https://www.facundoolivera.com)!
 - 📫 Contact me: f7olivera@gmail.com<br>
 
  ![](https://komarev.com/ghpvc/?username=f7olivera)
