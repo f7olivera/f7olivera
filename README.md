@@ -19,4 +19,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f7olivera&repo=chess&theme=dracula)](https://github.com/f7olivera/chess)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f7olivera&repo=what2watch&theme=dracula)](https://github.com/f7olivera/what2watch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f7olivera&repo=wea&theme=dracula)](https://github.com/f7olivera/wea)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f7olivera&repo=voluntu&theme=dracula)](https://github.com/f7olivera/voluntu)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=f7olivera&repo=voluntu&theme=dracula)](https://github.com/f7olivera/voluntu) -->
