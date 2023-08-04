@@ -2,7 +2,7 @@
 
 <hr>
 
-- 🎨 Check out my [portfolio](https://www.facundoolivera.com)!
+- 🎨 Check out my [portfolio](https://facundoolivera.vercel.app)!
 - 📫 Contact me: f7olivera@gmail.com<br>
 
  ![](https://komarev.com/ghpvc/?username=f7olivera)
